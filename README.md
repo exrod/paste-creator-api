@@ -1,5 +1,8 @@
 # Paste.ee Uploader API
 
+![license](https://img.shields.io/badge/license-MIT-red)
+[![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/ghouls)
+
 This is a simple Flask-based API that allows users to create pastes on Paste.ee using a provided API key. The API accepts text, description, and syntax as input, and returns a link to the created paste.
 
 It is still under development, I will soon code the front_end page for this with some cool things, ( this is a side project for some stars nothing else )
